@@ -50,7 +50,11 @@ def Read_file(file_name):
         except IndexError:
             continue
 
-    print(P)
+    width = 2 * len(GRID[0]) + 1
+    height = 2 * len(GRID) + 1
+
+    grid_matrix = np.zeros((width, height), dtype=int)
+    print(grid_matrix)
 
 
 if __name__ == "__main__":
