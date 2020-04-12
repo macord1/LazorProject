@@ -115,6 +115,9 @@ def Read_file(file_name):
     for i in L:
         grid_matrix[i[1]][i[0]] = 10
 
+    for i in P:
+        grid_matrix[i[1]][i[0]] = 20
+
     print(grid_matrix)
 
 
