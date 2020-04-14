@@ -9,7 +9,7 @@ Files included in final release v.final : Lazor.py, unit_tests.py, dark_1.bff, m
 
 Lazor.py is the master code for this project. Unit_tests.py is used to make sure the different functions in the master code are returning what is expected.
 
-Method of solving: After a board is read in, the lazor path(s) is/are calculated. All block layout combinations will be collected and tested until the lazor path(s) reach the derired point(s). 
+Method of solving: After a board is read in, the lazor path(s) is/are calculated. All block layout combinations will be collected and tested until the lazor path(s) reach the desired point(s). 
 
 The final solution will appear in a text file called solution.txt
 
