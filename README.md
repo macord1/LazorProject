@@ -11,6 +11,7 @@ Lazor.py is the master code for this project. Unit_tests.py is used to make sure
 
 Method of solving: After a board is read in, the lazor path(s) is/are calculated. All block layout combinations will be collected and tested until the lazor path(s) reach the desired point(s). 
 
+You can change the board you wish to solve by putting its file name in the main function in Lazor.py
 The final solution will appear in a text file called solution.txt
 
 There is another branch in this repository called updates. This is where we added code developments along the way, but they are not needed for to solve the games.
