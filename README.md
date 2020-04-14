@@ -7,4 +7,4 @@ Group members and their emails:
 
 Files included in release v.blahblah : blah blah blah
 
-Method of solving: After a board is read in, the lazor path(s) is/are calculated. Blocks will be randomly moved to eligible positions, until the lazor path(s) reach the final point(s). 
+Method of solving: After a board is read in, the lazor path(s) is/are calculated. All block layout combinations will be collected and tested until the lazor path(s) reach the final point(s). 
