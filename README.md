@@ -5,7 +5,7 @@ Group members and their emails:
   Molly Acord, macord1@jhu.edu
   Sreelakshmi Sunil, ssunil1@jhu.edu
 
-Files included in final release v.3.0 : Lazor.py, unit_tests.py, dark_1.bff, mad_1.bff, mad_4.bff, mad_7.bff, numbered_6.bff, showstopper_4.bff, tiny_5.bff, and yarn_5.bff
+Files included in final release v.final : Lazor.py, unit_tests.py, dark_1.bff, mad_1.bff, mad_4.bff, mad_7.bff, numbered_6.bff, showstopper_4.bff, tiny_5.bff, and yarn_5.bff
 
 Lazor.py is the master code for this project. Unit_tests.py is used to make sure the different functions in the master code are returning what is expected.
 
